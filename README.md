@@ -1,6 +1,6 @@
 # Gen-AI-Intensive-Course-with-Google
 
-## Agent Starter Pack : https://github.com/GoogleCloudPlatform/agent-starter-pack
+## Agent Starter Pack: ## https://github.com/GoogleCloudPlatform/agent-starter-pack
 
 # Bonus Day - Extra API features to try
 
